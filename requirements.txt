@@ -177,6 +177,4 @@ sqlite==3.35.3
 threadpoolctl==2.1.0
 vc==14.2	
 vs2015_runtime==14.27.29016
-werkzeug==1.0.1
 wheel==0.36.2
-wincertstore==0.2
