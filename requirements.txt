@@ -173,7 +173,6 @@ python==3.8.8
 python-dateutil==2.8.1
 scipy==1.6.2
 setuptools==52.0.0
-six==1.15.0
 sqlite==3.35.3
 threadpoolctl==2.1.0
 vc==14.2	
