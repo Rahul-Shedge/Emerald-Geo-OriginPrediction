@@ -1,0 +1,12 @@
+2021-04-13/10:41:21		conToFloat function executed successfully
+2021-04-13/10:41:21		getSplitData function worked well.
+2021-04-13/10:53:18		conToFloat function executed successfully
+2021-04-13/10:53:18		getSplitData function worked well.
+2021-04-13/10:54:44		conToFloat function executed successfully
+2021-04-13/10:54:44		getSplitData function worked well.
+2021-04-13/10:55:06		conToFloat function executed successfully
+2021-04-13/10:55:06		getSplitData function worked well.
+2021-04-13/10:55:28		conToFloat function executed successfully
+2021-04-13/10:55:28		getSplitData function worked well.
+2021-04-13/10:55:48		conToFloat function executed successfully
+2021-04-13/10:55:48		getSplitData function worked well.
