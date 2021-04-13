@@ -31,9 +31,6 @@ gast==0.2.2
 geographiclib==1.50
 geopy==1.21.0
 ggplot==0.11.5
-google-auth==1.7.1
-google-auth-oauthlib==0.4.1
-google-pasta==0.1.8
 graphviz==0.14.1
 grpcio==1.25.0
 htmlmin==0.1.12
@@ -52,7 +49,6 @@ lightgbm==2.3.1
 llvmlite==0.33.0
 lxml==4.5.2
 Markdown==3.1.1
-menuinst==1.4.16
 missingno==0.4.2
 mlxtend==0.17.2
 more-itertools==8.4.0
