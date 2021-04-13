@@ -42,7 +42,6 @@ idna==2.8
 ImageHash==4.1.0
 imbalanced-learn==0.7.0
 jieba3k==0.35.1
-joblib==0.14.1
 jsonify==0.5
 Keras==2.3.1
 Keras-Applications==1.0.8
